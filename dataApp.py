@@ -173,6 +173,7 @@ with aba2:
         fig3 = px.bar(
             df_m_2022_top, x='VALUE', y='Country', orientation='h',
             title='Top 10 Países com Maiores Índices de Homicídios de Mulheres (2022)',
+            labels={'VALUE': 'Taxa por 100 mil hab.'},
             text='VALUE', color='VALUE', color_continuous_scale=px.colors.sequential.Reds
         )
         fig3.update_traces(texttemplate='%{x:.1f}', textposition='outside')
