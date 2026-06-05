@@ -87,7 +87,7 @@ Este projeto foi desenvolvido com fins acadêmicos pelas alunas do curso de Enge
 
 - Gabriela da Silva Melo e Costa
 - Isabela da Silva Melo e Costa 
-- Maria Beatriz Vitorino Almeida - 
-- Karen Stephan da Penha Sousa - 
+- Maria Beatriz Vitorino Almeida
+- Karen Stephan da Penha Sousa  
 
 
